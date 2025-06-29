@@ -4,7 +4,7 @@ This project performs sentiment analysis on tweets to classify them as **hate sp
 
 ## 📁 Dataset
 
-The dataset used is from [Kaggle: Twitter Sentiment Analysis for Hate Speech Detection](https://www.kaggle.com/datasets) and includes:
+The dataset used is from [Kaggle: Twitter Sentiment Analysis for Hate Speech Detection]((https://www.kaggle.com/datasets/arkhoshghalb/twitter-sentiment-analysis-hatred-speech?select=train.csv)) and includes:
 - `tweet`: The text of the tweet
 - `label`: Sentiment label (0 = non-hate, 1 = hate)
 
